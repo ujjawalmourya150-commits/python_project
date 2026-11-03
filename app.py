@@ -1,5 +1,5 @@
-def add(a,b):
-    return a+b
+def add(a,b,c):
+    return a+b+c
 
 def divi(a,b):
     return a/b
